@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<h1>Accueil</h1>
+<h1>Details des articles</h1>
 <?php
 include 'vues/menusite.php';
 
