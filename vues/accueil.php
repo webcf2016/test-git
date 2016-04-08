@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-<title>Accueil</title>
+<title>Accueil memememememe</title>
 </head>
 <body>
 <h1>Accueil</h1>
