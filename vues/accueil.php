@@ -4,7 +4,7 @@
 <title>Accueil</title>
 </head>
 <body>
-<h1>Accueil</h1>
+<h1>Accueil de mon site</h1>
 <?php
 include 'vues/menusite.php';
 if($nb == 0){
