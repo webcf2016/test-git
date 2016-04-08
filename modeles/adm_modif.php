@@ -6,6 +6,7 @@ if(!empty($_POST)){
   var_dump($GLOBALS);
 }
 
+// On est ici
 
 
 
